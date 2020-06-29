@@ -3,7 +3,6 @@
     {
       "key": "1",
       "name": "Mother-See-of-Holy-Etchmiadzin",
-      "img": [],
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Mayr_Ator.tif/lossy-page1-1200px-Mayr_Ator.tif.jpg",
       "header": "Էջմիածնի Մայր Տաճար",
       "altText": "Էջմիածնի Մայր Տաճար",
@@ -22,7 +21,6 @@
     {
       "key": "2",
       "name": "Saint-Gayane-Church",
-      "img": [],
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/4.2.16_St._Gayane_Church.jpg/1280px-4.2.16_St._Gayane_Church.jpg",
       "header": "Սուրբ Գայանե եկեղեցի",
       "altText":"Սուրբ Գայանե եկեղեցի",
@@ -38,7 +36,6 @@
     {
       "key": "3",
       "name":"Surp-Amenaprkich-Church",
-      "img": [],
       "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Holy_Saviour%27s_Church_22-05-2019.jpg/1280px-Holy_Saviour%27s_Church_22-05-2019.jpg",
       "header": "Սուրբ Ամենափրկիչ եկեղեցի",
       "altText":"Սուրբ Ամենափրկիչ եկեղեցի",
