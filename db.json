@@ -158,7 +158,7 @@
     {
       "key": "1",
       "name": "Akna-lake",
-      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Panorama_Lake_Aknalich_aka_Ghanigel.jpg/450px-Panorama_Lake_Aknalich_aka_Ghanigel.jpg",
+      "src": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6087.382233824043!2d44.917173375609444!3d40.28261120218993!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40401b3f143fff85%3A0x2e34b4fcee95cea9!2sLake%20Aknalich!5e0!3m2!1sen!2s!4v1593626223172!5m2!1sen!2s",
       "header": "Ակնա լիճ",
       "altText": "Ակնա լիճ",
       "caption": "Գեղամա լեռներ, 3030մ",
@@ -183,14 +183,14 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26574.423478455403!2d44.931537497996395!3d40.228923698630574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEzJzMyLjciTiA0NMKwNTYnMTguNiJF!5e0!3m2!1sru!2s!4v1593460688569!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12184.994029904541!2d44.93850123263918!3d40.225776553323946!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404003bd392a3ec5%3A0x7149cc8dc5f3d2ef!2sAzhdahak!5e0!3m2!1sen!2s!4v1593626348342!5m2!1sen!2s"
     },
     {
       "key": "3",
       "name": "Gazan-lake",
       "src": "https://i2.wp.com/www.armgeo.am/wp-content/uploads/2016/01/%D5%A3%D5%A1%D5%A6%D5%A1%D5%B6%D5%A1%D5%AC%D5%AB%D5%B3.jpg?resize=960%2C640&ssl=1",
-      "header": "Գազան լիճ",
-      "altText": "Գազան լիճ",
+      "header": "Գազանալիճ",
+      "altText": "Գազանալիճ",
       "caption": "Զանգեզուրի լեռնաշղթա, 3286մ",
       "description": "Գազանալիճ՝ Հայաստանի Սյունիքի մարզում, Զանգեզուրի լեռների կատարային մասում, Քաջարանից 11 կմ հյուսիս–արևմուտք, Գեղի գետի ակունքում։ Ծովի մակարդակից 3112 մ բարձրության վրա։",
       "phoneNumber": ". . .",
@@ -213,7 +213,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.751354566324!2d45.01361261535487!3d40.392203079368066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzMxLjkiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593460796784!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d388957.15236471634!2d45.01579760818785!3d40.3927261072908!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404073c3653254db%3A0x2e16e2bbfbe7383f!2sLake%20Sevan!5e0!3m2!1sen!2s!4v1593626616883!5m2!1sen!2s"
     },
     {
       "key": "5",
@@ -228,7 +228,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.674028617191!2d45.60270291533241!3d39.65705007946069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDM5JzI1LjQiTiA0NcKwMzYnMTcuNiJF!5e0!3m2!1sru!2s!4v1593460841475!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d12286.693179288908!2d45.604891632370794!3d39.65706659122848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LHWgNW_1aHVvtWh1bbVqyDVrNWr1bPVqA!5e0!3m2!1sen!2s!4v1593626704153!5m2!1sen!2s"
     },
     {
       "key": "6",
@@ -243,7 +243,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.0810354710416!2d43.619056515376144!3d41.067221279294785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDA0JzAyLjAiTiA0M8KwMzcnMTYuNSJF!5e0!3m2!1sru!2s!4v1593460902331!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12032.321174343986!2d43.62124523304302!3d41.06723749656263!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4042146a28a56a93%3A0x418e8798d23ebf7!2sArp&#39;i%20Lchi%20Jrambar!5e0!3m2!1sen!2s!4v1593626775970!5m2!1sen!2s"
     },
     {
       "key": "7",
@@ -258,7 +258,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.4828319819594!2d44.650296115346215!3d40.10924217940198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA2JzMzLjMiTiA0NMKwMzknMDkuMCJF!5e0!3m2!1sru!2s!4v1593460940355!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6099.427476982263!2d44.90356387559357!3d40.14865981845024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aaa4c28916d4f%3A0xbcf487d8c0d17b1f!2sVishapilich%20Lake!5e0!3m2!1sen!2s!4v1593626895385!5m2!1sen!2s"
     },
     {
       "key": "8",
@@ -273,7 +273,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.156278721488!2d44.85930083653385!3d40.739165819261395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041ad2b40803117%3A0x98cc783ee288f246!2sParz%20Lich!5e0!3m2!1sru!2s!4v1593461011229!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.153323271894!2d44.85930083288465!3d40.73918207755499!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041ad2b40803117%3A0x98cc783ee288f246!2sLake%20Parz!5e0!3m2!1sen!2s!4v1593626961065!5m2!1sen!2s"
     },
     {
       "key": "9",
@@ -288,7 +288,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.0605213508607!2d44.176926715357574!3d40.4739260793586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzI2LjEiTiA0NMKwMTAnNDQuOCJF!5e0!3m2!1sru!2s!4v1593461052348!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.0603369000014!2d44.17911541512979!3d40.47393016008305!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406a7eb5a8e3855f%3A0x9722c2f064140be4!2sKari%20Lake!5e0!3m2!1sen!2s!4v1593627019901!5m2!1sen!2s"
     },
     {
       "key": "10",
@@ -303,7 +303,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9073893846953!2d45.01361261536519!3d40.720055179331005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQzJzEyLjIiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593461089505!5m2!1sru!2s"
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12095.626604208992!2d45.007273232875455!3d40.720071432258074!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404056af06c4b38f%3A0x5632cad80c8b4e41!2sLake%20Gosh!5e0!3m2!1sen!2s!4v1593627093070!5m2!1sen!2s"
     }
   ],
   "museums": [
