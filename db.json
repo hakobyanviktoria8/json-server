@@ -166,10 +166,9 @@
       "address": "ՀՀ, Գեղարքունիքի և Կոտայքի մարզերի սահմանագլուխ",
       "phoneNumber": ". . .",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.8838050828253!2d44.16702297887143!3d40.14487191692694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA4JzQwLjQiTiA0NMKwMTAnMDMuOCJF!5e0!3m2!1sru!2s!4v1593460621467!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.8838050828253!2d44.16702297887143!3d40.14487191692694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA4JzQwLjQiTiA0NMKwMTAnMDMuOCJF!5e0!3m2!1sru!2s!4v1593460621467!5m2!1sru!2s"
     },
     {
       "key": "2",
@@ -182,10 +181,9 @@
       "address": "ՀՀ,Կոտայք մարզ, Աժդահակ լեռս",
       "phoneNumber": ". . .",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26574.423478455403!2d44.931537497996395!3d40.228923698630574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEzJzMyLjciTiA0NMKwNTYnMTguNiJF!5e0!3m2!1sru!2s!4v1593460688569!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26574.423478455403!2d44.931537497996395!3d40.228923698630574!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEzJzMyLjciTiA0NMKwNTYnMTguNiJF!5e0!3m2!1sru!2s!4v1593460688569!5m2!1sru!2s"
     },
     {
       "key": "3",
@@ -198,10 +196,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.0871639246398!2d45.98905651531691!3d39.149999079532556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA5JzAwLjAiTiA0NcKwNTknMjguNSJF!5e0!3m2!1sru!2s!4v1593460758104!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.0871639246398!2d45.98905651531691!3d39.149999079532556!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA5JzAwLjAiTiA0NcKwNTknMjguNSJF!5e0!3m2!1sru!2s!4v1593460758104!5m2!1sru!2s"
     },
     {
       "key": "4",
@@ -214,10 +211,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Գեղարքունիքի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.751354566324!2d45.01361261535487!3d40.392203079368066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzMxLjkiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593460796784!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.751354566324!2d45.01361261535487!3d40.392203079368066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDIzJzMxLjkiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593460796784!5m2!1sru!2s"
     },
     {
       "key": "5",
@@ -230,10 +226,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Վայոց Ձորի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.674028617191!2d45.60270291533241!3d39.65705007946069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDM5JzI1LjQiTiA0NcKwMzYnMTcuNiJF!5e0!3m2!1sru!2s!4v1593460841475!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3071.674028617191!2d45.60270291533241!3d39.65705007946069!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDM5JzI1LjQiTiA0NcKwMzYnMTcuNiJF!5e0!3m2!1sru!2s!4v1593460841475!5m2!1sru!2s"
     },
     {
       "key": "6",
@@ -246,10 +241,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Շիրակի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.0810354710416!2d43.619056515376144!3d41.067221279294785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDA0JzAyLjAiTiA0M8KwMzcnMTYuNSJF!5e0!3m2!1sru!2s!4v1593460902331!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3008.0810354710416!2d43.619056515376144!3d41.067221279294785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDHCsDA0JzAyLjAiTiA0M8KwMzcnMTYuNSJF!5e0!3m2!1sru!2s!4v1593460902331!5m2!1sru!2s"
     },
     {
       "key": "7",
@@ -262,10 +256,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Արարատի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.4828319819594!2d44.650296115346215!3d40.10924217940198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA2JzMzLjMiTiA0NMKwMzknMDkuMCJF!5e0!3m2!1sru!2s!4v1593460940355!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3051.4828319819594!2d44.650296115346215!3d40.10924217940198!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDA2JzMzLjMiTiA0NMKwMzknMDkuMCJF!5e0!3m2!1sru!2s!4v1593460940355!5m2!1sru!2s"
     },
     {
       "key": "8",
@@ -278,10 +271,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Տավուշի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.156278721488!2d44.85930083653385!3d40.739165819261395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041ad2b40803117%3A0x98cc783ee288f246!2sParz%20Lich!5e0!3m2!1sru!2s!4v1593461011229!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12092.156278721488!2d44.85930083653385!3d40.739165819261395!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041ad2b40803117%3A0x98cc783ee288f246!2sParz%20Lich!5e0!3m2!1sru!2s!4v1593461011229!5m2!1sru!2s"
     },
     {
       "key": "9",
@@ -294,11 +286,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Արագածոտնի մարզ, Արագածի լանջ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.0605213508607!2d44.176926715357574!3d40.4739260793586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzI2LjEiTiA0NMKwMTAnNDQuOCJF!5e0!3m2!1sru!2s!4v1593461052348!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3035.0605213508607!2d44.176926715357574!3d40.4739260793586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI4JzI2LjEiTiA0NMKwMTAnNDQuOCJF!5e0!3m2!1sru!2s!4v1593461052348!5m2!1sru!2s"
     },
     {
       "key": "10",
@@ -311,10 +301,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Տավուշի մարզ",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9073893846953!2d45.01361261536519!3d40.720055179331005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQzJzEyLjIiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593461089505!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.9073893846953!2d45.01361261536519!3d40.720055179331005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDQzJzEyLjIiTiA0NcKwMDAnNTYuOSJF!5e0!3m2!1sru!2s!4v1593461089505!5m2!1sru!2s"
     }
   ],
   "museums": [
