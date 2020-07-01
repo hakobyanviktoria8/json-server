@@ -1499,7 +1499,7 @@
       "altText": "Հայոց լեզուն ու այբուբենը",
       "caption": "Մեսրոպ Մաշտոց, 405թ.",
       "description": "Հայերենի այբուբեն կամ Հայոց գրեր, հայերենի հնչյունաբանական գրերի համակարգը, որը ստեղծվել է Մեսրոպ Մաշտոցի կողմից հայերենի համար։ Գրերի գյուտը տեղի է ունեցել 405 թվականին։ 11-րդ դարից ի վեր հայերենի գրային համակարգում գրեթե փոփոխություններ չեն եղել։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
@@ -1515,12 +1515,12 @@
       "altText": "Հայկական երաժշտություն",
       "caption": "մ.թ.ա. 2-րդ հազարամյակ",
       "description": "Հայկական երաժշտություն, հայ ժողովրդի դարավոր երաժշտական մշակույթը։ Այն սկիզբ է առնում մ.թ.ա. II հազարամյակում։ Պատմական տվյալները մեզ են հասել հնադարյան հայ պատմիչներ Մովսես Խորենացու և Փավստոս Բյուզանդի աշխատությունների շնորհիվ:",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://armeniadiscovery.com/hy/articles/music", "#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.948327743686!2d44.514799115204355!3d40.187963379392365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abce1d6fc6057%3A0xab7c5024c7bbcee5!2sSayat-Nova%20Music%20School!5e0!3m2!1sen!2s!4v1593606058135!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1531,12 +1531,12 @@
       "altText": "Հայկական գորգագործություն",
       "caption": "Ք.ա. 5-րդ դար",
       "description": "Գորգի ամենավաղ նմուշը գտնվել է Ալթայի Պազիրիկ կուրգանում և թվագրվում է Ք.ա. 5-րդ դար։ Մի շարք գիտնականներ գտնում են, որ այն ստեղծվել է Հայկական լեռնաշխարհում:",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://armeniadiscovery.com/hy/articles/rug-making", "#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.50337137996!2d44.504593932353345!3d40.190976629221204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1aPVuNaA1aPVpdaA1asg1a3VodW21bjWgtWp1bbVpdaA1as!5e0!3m2!1sen!2s!4v1593606190072!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1547,12 +1547,12 @@
       "altText": "Հայկական քաղցրավենիք",
       "caption": "մ.թ.ա. 9-6-րդ դարեր",
       "description": "Քաղցրավենիքը երջանկություն է, իսկ հայկական քաղցրավենիքը՝ կրկնակի երջանկություն:Հավանաբար չկա աշխարհում մի մարդ, ում դուրը չի գա գաթա, փախլավա կամ մրգային լավաշ։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%AD%D5%B8%D5%B0%D5%A1%D5%B6%D5%B8%D6%81#%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A1%D5%B2%D5%A1%D5%B6%D5%A4%D5%A5%D6%80%D5%B6%D5%A5%D6%80","#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.504319709096!2d44.5045939242555!3d40.19097399136057!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1oTVodWy1oHWgNWh1b7VpdW21avWhA!5e0!3m2!1sen!2s!4v1593606327090!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1563,12 +1563,12 @@
       "altText": "Հայկական Ազգային Խմիչքներ",
       "caption": "մ.թ.ա. 2-րդ հազարամյակ",
       "description": "Հայաստանում խրախուսվում է ազգային խմիչքների սպառումը: Կոնյակը, օղին և հայկական գինին ալկոհոլային խմիչքների ամենահայտնի տեսակներն են ՀՀ-ում:",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://armeniadiscovery.com/hy/national-drinks", "#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.50811302534!2d44.50459389186417!3d40.190963439918455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1zINS91bTVq9W51oTVttWl1oA!5e0!3m2!1sen!2s!4v1593606455460!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1579,12 +1579,12 @@
       "altText": "Գրականություն",
       "caption": "մ.թ.ա. 4-5-րդ դար",
       "description": "Գրականություն, հասարակության հոգևոր կյանքի կարևոր բնագավառ։ Լայն առումով գրականություն են կոչում առհասարակ գրավոր խոսքը, նրա միջոցով շարադրված հասարակական-քաղաքական, գիտական, փիլիսոփայական, հրապարակախոսական, մանկավարժական կամ գործնական բնույթ ունեցող երկերը, նեղ առումով՝ արվեստի հիմնական տեսակներից մեկը՝ գեղարվեստական գրականություն։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://hy.wikipedia.org/wiki/%D4%B3%D6%80%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6","#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.50906135423!2d44.50459388376633!3d40.19096080205806!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LPWgNWh1a3VodW21bjWgtWp!5e0!3m2!1sen!2s!4v1593606533254!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1595,12 +1595,12 @@
       "altText": "Հայկական թատրոնը",
       "caption": "մ․թ․ա․ 69 թվական",
       "description": "Հայկական թատրոնը, հունական և հռոմեական թատրոնների հետ միասին, համարվում է աշխարհի ամենահներից մեկը։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://armeniadiscovery.com/hy/articles/theatre", "#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.510009683065!2d44.504593875668476!3d40.190958164197674!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1anVodW_1oDVuNW2!5e0!3m2!1sen!2s!4v1593606590646!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1611,12 +1611,12 @@
       "altText": "Հայկական ազգային խոհանոցը",
       "caption": "մ.թ.ա. 9-6-րդ դարեր",
       "description": "Հայկական խոհանոցը ունի մի շարք առանձնահատկություններ, որոնք պայմանավորված են տարբեր պատմական, աշխարհագրական, կլիմայական և նույնիսկ պատմա-քաղաքական գործոններով։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%AD%D5%B8%D5%B0%D5%A1%D5%B6%D5%B8%D6%81","#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.51095801183!2d44.50459386757064!3d40.19095552633735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1a3VuNWw1aHVttW41oHVqA!5e0!3m2!1sen!2s!4v1593606699087!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1627,12 +1627,12 @@
       "altText": "Հայկական ճարտարապետություն",
       "caption": "մ.թ.ա. 3-րդ դար",
       "description": "Հայկական ճարտարապետությունը ճարտարապետական ոճ է, որ ստեղծվել և օգտագործվում է հայ ժողովրդի կողմից Հայկական լեռնաշխարհում և նրա սահմաններից դուրս:",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%B3%D5%A1%D6%80%D5%BF%D5%A1%D6%80%D5%A1%D5%BA%D5%A5%D5%BF%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6", "#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d24382.511906340525!2d44.504593859472784!3d40.19095288847705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1593606794582!5m2!1sen!2s",
       "popular": false
     },
     {
@@ -1643,12 +1643,12 @@
       "altText": "Հայկական կերպարվեստ",
       "caption": "մ.թ.ա. 4-3-րդ հազարամյակներ",
       "description": "Հայաստանում նախնադարյան արվեստի հնագույն հուշարձանները շուրջ 10-հազարամյա վաղեմություն ունեն։ Վաղ բրոնզեդարում կիրառական արվեստը ներկայանում է հիմնականում խեցեգործությամբ։",
-      "address": "․ ․ ․",
+      "address": "",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
       "workTime": [],
       "site": ["https://hy.wikipedia.org/wiki/%D5%80%D5%A1%D5%B5%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%AF%D5%A5%D6%80%D5%BA%D5%A1%D6%80%D5%BE%D5%A5%D5%BD%D5%BF","#"],
-      "coordinates": " . . . ",
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24382.51380299772!2d44.50459384327713!3d40.1909476127566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1a_VpdaA1brVodaA1b7VpdW91b8!5e0!3m2!1sen!2s!4v1593606872100!5m2!1sen!2s",
       "popular": false
     }
   ],
