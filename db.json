@@ -568,7 +568,7 @@
     {
       "key": "1",
       "name": "Gata-pandok",
-      "src": "https://scontent-lga3-1.cdninstagram.com/v/t51.2885-15/e35/97961079_244935723623216_5317347111105993616_n.jpg?_nc_ht=scontent-lga3-1.cdninstagram.com&_nc_cat=108&_nc_ohc=p7H8yOu5_v4AX843tz1&oh=dab519e52027946b1f4f0e27ca124234&oe=5EF35FD7&ig_cache_key=MjMxNDU4ODk0OTgyMDgxNzY4Mw%3D%3D.2",
+      "src": "https://lh3.googleusercontent.com/proxy/8huANuS1Aehcl-bk5773R3_pWdaYfXBC1CaPhZrCobqOXwVhDH2LOOgiPjJMJ9UpDrfQQd_mDknrQGcfnY6CMtS6vLRq99moXXIBOEoRzA",
       "header": "Գաթա Պանդոկ",
       "altText": "Գաթա Պանդոկ",
       "caption": "հայկական խոհանոց",
@@ -576,10 +576,9 @@
       "phoneNumber": "+37410519909",
       "address": "ՀՀ, ք. Երևան, Թումանյան 22",
       "email": "info@gatapandok.am",
-      "workTime": "Monday-Sunday 10:00AM–12:00AM",
+      "workTime": ["10:00–12:00","10:00–12:00","10:00–12:00","10:00–12:00","10:00–12:00","10:00–12:00","10:00–12:00"] ,
       "site": ["http://gatapandok.am/?lang=en","https://www.facebook.com/gatapandok"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.2347911231755!2d44.514543515348514!3d40.18158797939317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzUzLjciTiA0NMKwMzEnMDAuMiJF!5e0!3m2!1sru!2s!4v1593464938571!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.2347911231755!2d44.514543515348514!3d40.18158797939317!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzUzLjciTiA0NMKwMzEnMDAuMiJF!5e0!3m2!1sru!2s!4v1593464938571!5m2!1sru!2s"
     },
     {
       "key": "2",
@@ -592,10 +591,9 @@
       "phoneNumber": "+37412456654",
       "address": "ՀՀ, ք. Երևան, Եզնիկ Կողբացի փող․ 20",
       "email": "adzoukh@gmail.com",
-      "workTime": "Monday-Sunday 12:00PM–9:00PM",
+      "workTime": ["12:00-21:00","12:00-21:00","12:00-21:00","12:00-21:00","12:00-21:00","12:00-21:00","12:00-21:00"],
       "site": ["https://www.adzoukh.com/", "https://www.facebook.com/adzoukh/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.277774897209!2d44.50563771534843!3d40.180631279393275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzUwLjMiTiA0NMKwMzAnMjguMiJF!5e0!3m2!1sru!2s!4v1593464983496!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.277774897209!2d44.50563771534843!3d40.180631279393275!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzUwLjMiTiA0NMKwMzAnMjguMiJF!5e0!3m2!1sru!2s!4v1593464983496!5m2!1sru!2s"
     },
     {
       "key": "3",
@@ -608,10 +606,9 @@
       "phoneNumber": "+37410608800 , +37491608800",
       "address": "ՀՀ, ք. Երևան, Թումանյան փող. 21",
       "email": "info@lavash.restaurant",
-      "workTime": "Monday-Sunday  8:30AM - 11:00PM",
+      "workTime": ["8:30-23:00","8:30-23:00","8:30-23:00","8:30-23:00","8:30-23:00","8:30-23:00","8:30-23:00"],
       "site": ["http://www.lavash.restaurant/en/","https://www.facebook.com/Lavash.Restaurant.Yerevan"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1735511437064!2d44.51424531534853!3d40.18295097939302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzU4LjYiTiA0NMKwMzAnNTkuMiJF!5e0!3m2!1sru!2s!4v1593465046598!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1735511437064!2d44.51424531534853!3d40.18295097939302!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzU4LjYiTiA0NMKwMzAnNTkuMiJF!5e0!3m2!1sru!2s!4v1593465046598!5m2!1sru!2s"
     },
     {
       "key": "4",
@@ -624,10 +621,9 @@
       "phoneNumber": "+37410508800",
       "address": "ՀՀ, ք. Երևան, Տերյան փող. 91",
       "email": "corporate@yeremyanprojects.com",
-      "workTime": "Monday-Sunday  10:00AM - 12:00PM",
+      "workTime": ["10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00"],
       "site": ["https://pandokyerevan.com/","https://www.facebook.com/PandokYerevan/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.9070540286843!2d44.51694451534877!3d40.188881879392376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzIwLjAiTiA0NMKwMzEnMDguOSJF!5e0!3m2!1sru!2s!4v1593465089104!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.9070540286843!2d44.51694451534877!3d40.188881879392376!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzIwLjAiTiA0NMKwMzEnMDguOSJF!5e0!3m2!1sru!2s!4v1593465089104!5m2!1sru!2s"
     },
     {
       "key": "5",
@@ -640,10 +636,9 @@
       "phoneNumber": "+37410600880",
       "address": "ՀՀ, ք. Երևան, Ամիրյան փող. 1",
       "email": "info@sherep.restaurant.com",
-      "workTime": "Monday-Sunday  8:30AM - 10:00PM",
+      "workTime": ["8:30-22:00","8:30-22:00","8:30-22:00","8:30-22:00","8:30-22:00","8:30-22:00","8:30-22:00"],
       "site": ["http://www.sherep.restaurant/?fbclid=IwAR0v2A_-LuU59bgSEt_FSP9si0mW_BOsOs6-daeRrRxRhBIWUKxkI992PHY", "https://www.facebook.com/sherep.resto/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3804975974804!2d44.506632515348386!3d40.1783448793936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzQyLjAiTiA0NMKwMzAnMzEuOCJF!5e0!3m2!1sru!2s!4v1593465141077!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3804975974804!2d44.506632515348386!3d40.1783448793936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzQyLjAiTiA0NMKwMzAnMzEuOCJF!5e0!3m2!1sru!2s!4v1593465141077!5m2!1sru!2s"
     },
     {
       "key": "6",
@@ -656,10 +651,9 @@
       "phoneNumber": "+37477520357",
       "address": "ՀՀ, ք. Երևան, Հանրապետություն փող. 62",
       "email": "vinograd.armenia@gmail.com",
-      "workTime": "Monday-Sunday  1:00PM - 11:00PM",
+      "workTime": ["13:00-23:00","13:00-23:00","13:00-23:00","13:00-23:00","13:00-23:00","13:00-23:00","13:00-23:00"],
       "site": ["#","https://www.facebook.com/Vinograd-Wine-Restobar-770583559645100/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.407336607418!2d44.51477431534838!3d40.1777474793936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzM5LjkiTiA0NMKwMzEnMDEuMSJF!5e0!3m2!1sru!2s!4v1593465189724!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.407336607418!2d44.51477431534838!3d40.1777474793936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzM5LjkiTiA0NMKwMzEnMDEuMSJF!5e0!3m2!1sru!2s!4v1593465189724!5m2!1sru!2s"
     },
     {
       "key": "7",
@@ -672,10 +666,9 @@
       "phoneNumber": "+37411611711",
       "address": "ՀՀ, ք. Երևան, Թումանյան 38",
       "email": "info@pastrami.am",
-      "workTime": "Monday-Sunday  11:00AM - 12:00PM",
+      "workTime": ["10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00"],
       "site": ["#", "https://www.facebook.com/PastramiYerevan/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.041603004752!2d44.50846811534857!3d40.185887579392656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzA5LjIiTiA0NMKwMzAnMzguNCJF!5e0!3m2!1sru!2s!4v1593465221848!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.041603004752!2d44.50846811534857!3d40.185887579392656!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzA5LjIiTiA0NMKwMzAnMzguNCJF!5e0!3m2!1sru!2s!4v1593465221848!5m2!1sru!2s"
     },
     {
       "key": "8",
@@ -688,10 +681,9 @@
       "phoneNumber": "+37411205204",
       "address": "ՀՀ, ք. երևան, Իսահակյան փող. 24/1",
       "email": ". . .",
-      "workTime": "Monday-Sunday  12:00AM - 12:00PM",
+      "workTime": ["12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00"],
       "site": ["#","https://www.facebook.com/thevineyard.yerevan/?epa=SEARCH_BOX"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.08459509147!2d44.50852391534857!3d40.184930779392786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzA1LjgiTiA0NMKwMzAnMzguNiJF!5e0!3m2!1sru!2s!4v1593465263864!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.08459509147!2d44.50852391534857!3d40.184930779392786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDExJzA1LjgiTiA0NMKwMzAnMzguNiJF!5e0!3m2!1sru!2s!4v1593465263864!5m2!1sru!2s"
     },
     {
       "key": "9",
@@ -704,10 +696,9 @@
       "phoneNumber": "+37460577044",
       "address": "ՀՀ, ք. երևան, Ամիրյան փող.6",
       "email": "info@baklachoff.com",
-      "workTime": "Monday-Sunday  10:00AM - 12:00AM",
+      "workTime": ["10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00","10:00-24:00"],
       "site": ["https://kavkazskayaplennitsa.voodoo.pro/","https://www.facebook.com/kavkazskayaplennica/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.330376858377!2d44.50574461534847!3d40.1794604793934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzQ2LjEiTiA0NMKwMzAnMjguNiJF!5e0!3m2!1sru!2s!4v1593465296633!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.330376858377!2d44.50574461534847!3d40.1794604793934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEwJzQ2LjEiTiA0NMKwMzAnMjguNiJF!5e0!3m2!1sru!2s!4v1593465296633!5m2!1sru!2s"
     },
     {
       "key": "10",
@@ -720,10 +711,9 @@
       "phoneNumber": "+37431250560",
       "address": "ՀՀ, Շիրակի մարղ, ք.Գյումրի, Ռիժկովի փող. 6",
       "email": " . . . ",
-      "workTime": "Monday-Sunday  12:00PM - 12:00AM",
+      "workTime": ["12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00","12:00-24:00"],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3034.593265870301!2d43.897427115357885!3d40.48426237935726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI5JzAzLjMiTiA0M8KwNTMnNTguNiJF!5e0!3m2!1sru!2s!4v1593465333117!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3034.593265870301!2d43.897427115357885!3d40.48426237935726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDI5JzAzLjMiTiA0M8KwNTMnNTguNiJF!5e0!3m2!1sru!2s!4v1593465333117!5m2!1sru!2s"
     }
   ],
   "mountains": [
@@ -738,10 +728,9 @@
       "phoneNumber": ". . .",
       "address": ". . .",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.6559763100945!2d44.288132615333865!3d39.70243837945448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzA4LjgiTiA0NMKwMTcnMjUuMiJF!5e0!3m2!1sru!2s!4v1593465595457!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.6559763100945!2d44.288132615333865!3d39.70243837945448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzA4LjgiTiA0NMKwMTcnMjUuMiJF!5e0!3m2!1sru!2s!4v1593465595457!5m2!1sru!2s"
     },
     {
       "key": "2",
@@ -754,10 +743,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Արագածոտնի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.8328722598862!2d44.183687315359016!3d40.52318497935288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMxJzIzLjUiTiA0NMKwMTEnMDkuMiJF!5e0!3m2!1sru!2s!4v1593465633280!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.8328722598862!2d44.183687315359016!3d40.52318497935288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMxJzIzLjUiTiA0NMKwMTEnMDkuMiJF!5e0!3m2!1sru!2s!4v1593465633280!5m2!1sru!2s"
     },
     {
       "key": "3",
@@ -770,10 +758,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Գեղարկունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12184.548913796163!2d44.93835208627883!3d40.22825097019776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404003986eaab01f%3A0x4db42ced2eff3294!2z0JPQvtGA0LAg0JDQttC00LDQsNC6!5e0!3m2!1sru!2s!4v1593465692159!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12184.548913796163!2d44.93835208627883!3d40.22825097019776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x404003986eaab01f%3A0x4db42ced2eff3294!2z0JPQvtGA0LAg0JDQttC00LDQsNC6!5e0!3m2!1sru!2s!4v1593465692159!5m2!1sru!2s"
     },
     {
       "key": "4",
@@ -786,10 +773,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.9211383137226!2d46.16592391533018!3d39.58392767947067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDM1JzAyLjEiTiA0NsKwMTAnMDUuMiJF!5e0!3m2!1sru!2s!4v1593465733375!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3074.9211383137226!2d46.16592391533018!3d39.58392767947067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDM1JzAyLjEiTiA0NsKwMTAnMDUuMiJF!5e0!3m2!1sru!2s!4v1593465733375!5m2!1sru!2s"
     },
     {
       "key": "5",
@@ -802,10 +788,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Արագածոտնի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.562243690836!2d44.63877871535927!3d40.529165879352234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMxJzQ1LjAiTiA0NMKwMzgnMjcuNSJF!5e0!3m2!1sru!2s!4v1593465780189!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3032.562243690836!2d44.63877871535927!3d40.529165879352234!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDMxJzQ1LjAiTiA0NMKwMzgnMjcuNSJF!5e0!3m2!1sru!2s!4v1593465780189!5m2!1sru!2s"
     },
     {
       "key": "6",
@@ -818,10 +803,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Կոտայքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.901835788354!2d45.17529951534114!3d39.943585379422956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDU2JzM2LjkiTiA0NcKwMTAnMzkuMCJF!5e0!3m2!1sru!2s!4v1593465819757!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3058.901835788354!2d45.17529951534114!3d39.943585379422956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDU2JzM2LjkiTiA0NcKwMTAnMzkuMCJF!5e0!3m2!1sru!2s!4v1593465819757!5m2!1sru!2s"
     },
     {
       "key": "7",
@@ -834,10 +818,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Կոտայքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3042.338710682919!2d44.682039715352566!3d40.312639779377285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDE4JzQ1LjUiTiA0NMKwNDEnMDMuMiJF!5e0!3m2!1sru!2s!4v1593465856612!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3042.338710682919!2d44.682039715352566!3d40.312639779377285!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDE4JzQ1LjUiTiA0NMKwNDEnMDMuMiJF!5e0!3m2!1sru!2s!4v1593465856612!5m2!1sru!2s"
     },
     {
       "key": "8",
@@ -850,10 +833,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.5306786482124!2d46.30720131531661!3d39.13990997953401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA4JzIzLjciTiA0NsKwMTgnMzMuOCJF!5e0!3m2!1sru!2s!4v1593465895123!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.5306786482124!2d46.30720131531661!3d39.13990997953401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA4JzIzLjciTiA0NsKwMTgnMzMuOCJF!5e0!3m2!1sru!2s!4v1593465895123!5m2!1sru!2s"
     },
     {
       "key": "9",
@@ -866,10 +848,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Գեղաարքունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12138.892848227002!2d45.29930083640483!3d40.481388019720676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40406f8a27f61dc7%3A0x3b9ca7793e226ffc!2z0JDRgNGC0LDQvdC40Yg!5e0!3m2!1sru!2s!4v1593465950993!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12138.892848227002!2d45.29930083640483!3d40.481388019720676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40406f8a27f61dc7%3A0x3b9ca7793e226ffc!2z0JDRgNGC0LDQvdC40Yg!5e0!3m2!1sru!2s!4v1593465950993!5m2!1sru!2s"
     },
     {
       "key": "10",
@@ -882,10 +863,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12283.327006353544!2d46.03224523600626!3d39.6759991213278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x403e21dcf645da27%3A0x2c4947608e616abd!2z0KPRhdGC0LDRgdCw0YA!5e0!3m2!1sru!2s!4v1593465981409!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12283.327006353544!2d46.03224523600626!3d39.6759991213278!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x403e21dcf645da27%3A0x2c4947608e616abd!2z0KPRhdGC0LDRgdCw0YA!5e0!3m2!1sru!2s!4v1593465981409!5m2!1sru!2s"
     }
   ],
   "waterfalls": [
@@ -900,10 +880,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Արագածոտնի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.6559763100945!2d44.288132615333865!3d39.70243837945448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzA4LjgiTiA0NMKwMTcnMjUuMiJF!5e0!3m2!1sru!2s!4v1593497093957!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3069.6559763100945!2d44.288132615333865!3d39.70243837945448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDQyJzA4LjgiTiA0NMKwMTcnMjUuMiJF!5e0!3m2!1sru!2s!4v1593497093957!5m2!1sru!2s"
     },
     {
       "key": "2",
@@ -916,10 +895,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Վայոց Ձորի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3063.6803819490997!2d45.6639299153378!3d39.83658317943676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDUwJzExLjciTiA0NcKwMzknNTguMCJF!5e0!3m2!1sru!2s!4v1593497154926!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3063.6803819490997!2d45.6639299153378!3d39.83658317943676!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDUwJzExLjciTiA0NcKwMzknNTguMCJF!5e0!3m2!1sru!2s!4v1593497154926!5m2!1sru!2s"
     },
     {
       "key": "3",
@@ -932,10 +910,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.326408135161!2d45.98946471532928!3d39.55224707947496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDMzJzA4LjEiTiA0NcKwNTknMzAuMCJF!5e0!3m2!1sru!2s!4v1593497216478!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3076.326408135161!2d45.98946471532928!3d39.55224707947496!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDMzJzA4LjEiTiA0NcKwNTknMzAuMCJF!5e0!3m2!1sru!2s!4v1593497216478!5m2!1sru!2s"
     },
     {
       "key": "4",
@@ -948,10 +925,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Շիրակի և Լոռու մարզերի սահմանին",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3014.9726947083973!2d44.113845215371406!3d40.916344579310184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40418cdc99a2baef%3A0xeb37ec894459ba79!2sTrchkan%20Waterfall!5e0!3m2!1sru!2s!4v1593497287429!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3014.9726947083973!2d44.113845215371406!3d40.916344579310184!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40418cdc99a2baef%3A0xeb37ec894459ba79!2sTrchkan%20Waterfall!5e0!3m2!1sru!2s!4v1593497287429!5m2!1sru!2s"
     },
     {
       "key": "5",
@@ -964,10 +940,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24383.107889139916!2d44.50057820552025!3d40.189295081083664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LzVq9Wz1oTVqyDVu9aA1b7VpdWq1bbVpdaA1ag!5e0!3m2!1sru!2s!4v1593497350400!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24383.107889139916!2d44.50057820552025!3d40.189295081083664!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LzVq9Wz1oTVqyDVu9aA1b7VpdWq1bbVpdaA1ag!5e0!3m2!1sru!2s!4v1593497350400!5m2!1sru!2s"
     },
     {
       "key": "6",
@@ -980,10 +955,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Կոտայքի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.727208245184!2d44.91240911534405!3d40.03686957941117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDAyJzEyLjciTiA0NMKwNTQnNTIuNiJF!5e0!3m2!1sru!2s!4v1593497424798!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3054.727208245184!2d44.91240911534405!3d40.03686957941117!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDAyJzEyLjciTiA0NMKwNTQnNTIuNiJF!5e0!3m2!1sru!2s!4v1593497424798!5m2!1sru!2s"
     },
     {
       "key": "7",
@@ -996,10 +970,9 @@
       "phoneNumber": ". . .",
       "address": "ԼՂՀ, Հոնոտի կիրճ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6095.881212166225!2d44.61912632650739!3d40.1881352175694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LbVuNW21b_Vq9Wv1bbVpdaAINW71oDVvtWl1ao!5e0!3m2!1sru!2s!4v1593497502609!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d6095.881212166225!2d44.61912632650739!3d40.1881352175694!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1LbVuNW21b_Vq9Wv1bbVpdaAINW71oDVvtWl1ao!5e0!3m2!1sru!2s!4v1593497502609!5m2!1sru!2s"
     },
     {
       "key": "8",
@@ -1012,10 +985,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Տավուշի մարզ",
       "email": " . . . ",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.5306786482124!2d46.30720131531661!3d39.13990997953401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA4JzIzLjciTiA0NsKwMTgnMzMuOCJF!5e0!3m2!1sru!2s!4v1593497555798!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3094.5306786482124!2d46.30720131531661!3d39.13990997953401!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMznCsDA4JzIzLjciTiA0NsKwMTgnMzMuOCJF!5e0!3m2!1sru!2s!4v1593497555798!5m2!1sru!2s"
     },
     {
       "key": "9",
@@ -1028,10 +1000,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Սյունիքի մարզ",
       "email": ". . .",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.0375806767424!2d44.52659211534939!3d40.20822697938994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd2b102c016d%3A0x11389e0958121de2!2sArmenian%20Geographic!5e0!3m2!1sru!2s!4v1593497618099!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.0375806767424!2d44.52659211534939!3d40.20822697938994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd2b102c016d%3A0x11389e0958121de2!2sArmenian%20Geographic!5e0!3m2!1sru!2s!4v1593497618099!5m2!1sru!2s"
     },
     {
       "key": "10",
@@ -1044,10 +1015,9 @@
       "phoneNumber": ". . .",
       "address": "ՀՀ, Լոռու մարզ",
       "email": ". . .",
-      "workTime": ". . .",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.0375806767424!2d44.52659211534939!3d40.20822697938994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd2b102c016d%3A0x11389e0958121de2!2sArmenian%20Geographic!5e0!3m2!1sru!2s!4v1593497684981!5m2!1sru!2s",
-      "popular": false
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.0375806767424!2d44.52659211534939!3d40.20822697938994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd2b102c016d%3A0x11389e0958121de2!2sArmenian%20Geographic!5e0!3m2!1sru!2s!4v1593497684981!5m2!1sru!2s"
     }
   ],
   "festivals": [
@@ -1896,8 +1866,7 @@
       "email": ". . .",
       "site": ["#", "#"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.436331710416!2d44.513741115197405!3d40.17710207939367!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINSy1bjWgtWm1aHVttWk1asg1oPVuNWyLiAx!5e0!3m2!1sen!2s!4v1593415008594!5m2!1sen!2s",
-      "popular": false, 
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "2",
@@ -1906,14 +1875,13 @@
       "header": "Կասկադ",
       "altText": "Կասկադ",
       "caption": "այգի",
-      "description": "Համալիրը կառուցվել է տրավերտին տեսակի սպիտակ քարից, որը ներդաշնակորեն համադրվում է շրջակա միջավայրի հետ: Նախագծելով Կասկադը հեղինակները` ճարտարապետներ Ջիմ Թորոսյանը, Սարգիս Գուրզադյանը և Ասլան Մխիթարյանը, ավարտեցին 1924թ. Ալեքսանդր Թամանյանի կողմից նախագծված Երևանի գլխավոր հատակագծի հորինվածքային առանցքը, այսպես կոչված, «Հյուսիսային ճառագայթը», որը հատում է քաղաքը` հյուսիս-հարավ ուղղությամբ[1]: Կասկադ համալիրի գլխավոր գաղափարը ազգային վերածնունդը ներկայացնելն էր: Այդ գաղափարը իրականություն դարձնելու համար օգտագործվեցին ճարտարապետական ամենատարբեր ձևեր և գեղարվեստական արտահայտչամիջոցներ: Կասկադ համալիր, ճարտարապետական-կոթողային համալիրում գտնվում են ցուցասրահներ, շատրվաններ, ծաղկանոցներ և հարթաքանդակներ։ Ներկայումս Կասկադը՝ ի դեմս Գաֆէսճեան արվեստի կենտրոնի, ծառայում է ժամանակակից արվեստի առաջատար միտումները Հայաստանում ցուցադրելու և աշխարհին հայկական մշակույթի լավագույնս ներկայացնելու առաքելությամբ:",
+      "description": "Համալիրը կառուցվել է տրավերտին տեսակի սպիտակ քարից, որը ներդաշնակորեն համադրվում է շրջակա միջավայրի հետ: Նախագծելով Կասկադը հեղինակները` ճարտարապետներ Ջիմ Թորոսյանը, Սարգիս Գուրզադյանը և Ասլան Մխիթարյանը, ավարտեցին 1924թ. Ալեքսանդր Թամանյանի կողմից նախագծված Երևանի գլխավոր հատակագծի հորինվածքային առանցքը, այսպես կոչված, «Հյուսիսային ճառագայթը», որը հատում է քաղաքը` հյուսիս-հարավ ուղղությամբ[1]: Կասկադ համալիրի գլխավոր գաղափարը ազգային վերածնունդը ներկայացնելն էր: Այդ գաղափարը իրականություն դարձնելու համար օգտագործվեցին ճարտարապետական ամենատարբեր ձևեր և գեղարվեստական արտահայտչամիջոցներ:",
       "address": "ՀՀ, ք. Երևան, Թամանյան փող. 10",
       "phoneNumber": "+37410567262",
       "email": "info@cmf.am",
       "site": ["www.cmf.am", "https://www.facebook.com/cafesjiancentercascade"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3047.8554259569096!2d44.513514315197696!3d40.19003077939208!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINS51aHVtNWh1bbVtdWh1bYg1oPVuNWyLiAxMA!5e0!3m2!1sen!2s!4v1593415063787!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "3",
@@ -1922,14 +1890,13 @@
       "header": "Հանրապետության հրապարակ",
       "altText": "Հանրապետության հրապարակ",
       "caption": "հրապարակ",
-      "description": "Հանրապետության հրապարակը, Երևան քաղաքի վարչական կենտրոնի գլխավոր ճարտարապետական համակառույցն է: Այն նախագծվել է ճարտարապետ Ալեքսանդր Թամանյանի կողմից 1924 թվականին: Հանրապետության հրապարակի հատակագիծը սեղանի և օվալի համադրություն է: Հրապարակը կազմված է երկու մասերից: Առաջինը՝ շրջանաձև է, որի կենտրոնում քարե նախշերով սալահատակ է, որն ըստ մտահղացման բարձրից դիտելիս պետք է հիշեցնի հայկական գորգ: Երկրորդն ունի սեղանաձև տեսք և ներառում է երգող շատրվանները, որ տեղակայված են Հայաստանի պատմության թանգարանի և Ազգային պատկերասրահի շենքի դիմաց: Հրապարակի շուրջը գտնվող շենքերը կառուցված են վարդագույն և սպիտակ տուֆից, իսկ դրանց ստորին մասը՝ բազալտից:",
+      "description": "Հանրապետության հրապարակը, Երևան քաղաքի վարչական կենտրոնի գլխավոր ճարտարապետական համակառույցն է: Այն նախագծվել է ճարտարապետ Ալեքսանդր Թամանյանի կողմից 1924 թվականին: Հանրապետության հրապարակի հատակագիծը սեղանի և օվալի համադրություն է: Հրապարակը կազմված է երկու մասերից: Առաջինը՝ շրջանաձև է, որի կենտրոնում քարե նախշերով սալահատակ է, որն ըստ մտահղացման բարձրից դիտելիս պետք է հիշեցնի հայկական գորգ: Երկրորդն ունի սեղանաձև տեսք և ներառում է երգող շատրվանները, որ տեղակայված են Հայաստանի պատմության թանգարանի և Ազգային պատկերասրահի շենքի դիմաց: ",
       "address": "ՀՀ, ք. Երևան, Հանրապետության հրպ.",
       "phoneNumber": ". . .",
       "email": ". . .",
       "site": ["#", "#"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d562.7485525961084!2d44.51269207056493!3d40.17743314204815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfa28499691%3A0x2bde14d127166c74!2sRepublic%20Square!5e0!3m2!1sen!2s!4v1593415167622!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "4",
@@ -1938,14 +1905,13 @@
       "header": "Լաստիվեր",
       "altText": "Լաստիվեր",
       "caption": "բնություն",
-      "description": "Լաստիվերը գտնվում է Հայաստանի հյուսիս-արևելքում՝ Տավուշի մարզում, Ենոքավան գյուղի ծայրամասում: Պետք է Տավուշի խիտ անտառներով իջնել Խաչաղբյուր գետի կիրճը, որտեղ էլ գտնվում է այդ թաքնված գանձը: Իսկ արահետի վերջում մեր առջև կբացվի Լաստիվերի ջրվեժի գեցեցիկ տեսարանը: Լաստիվերն առօրյա խնդիրներից խուսափելու և բնությանը մոտ գտնվելու համար հիանալի վայր է: Այնտեղ դուք կարող եք տեսնել քարանձավներ, որտեղ ժամանակին ճգնավորներ են ապրել: Քարանձավները հսկայական կիրճի եզրին են, և հնում այստեղ բարձրանալու համար մարդիկ ստիպված են եղել մեկը մյուսի վրա շարված գերաններից աստիճան կառուցել, որն ավելի շատ  նման էր լաստի, ոչ թե աստիճանի և այդ իսկ պատճառով այդ վայրը  ստացավ «Լաստիվեր» անվանումը: Մեկ այլ վարկածով՝ այստեղ բարձրացել են պարանով կապված փայտե հարթակի՝ լաստի միջոցով: Նստելով այդ տախտակին՝ քարանձավ բարձրացողը բղավել է. «Լաստն՝ ի վեր», այսինքն՝ լաստը բարձրացրեք դեպի վեր: Վերևից լսելով հրահանգը ու տեսնելով, որ կանչողը յուրային է՝ քաշել են պարանը դեպի քարանձավի մուտքը: Բացի այդ այնտեղ է գտնվում նաև Լաստիվեր Անապատը, որտեղ կարող ենք տեսնել ծառերի վրա կառուցված բազմաթիվ գեղեցիկ խրճիթներ և տներ, որոնք ծառայում են որպես գիշերակաց զբոսաշրջիկների համար:",
+      "description": "Լաստիվերը գտնվում է Հայաստանի հյուսիս-արևելքում՝ Տավուշի մարզում, Ենոքավան գյուղի ծայրամասում: Պետք է Տավուշի խիտ անտառներով իջնել Խաչաղբյուր գետի կիրճը, որտեղ էլ գտնվում է այդ թաքնված գանձը: Իսկ արահետի վերջում մեր առջև կբացվի Լաստիվերի ջրվեժի գեցեցիկ տեսարանը: Լաստիվերն առօրյա խնդիրներից խուսափելու և բնությանը մոտ գտնվելու համար հիանալի վայր է: Այնտեղ դուք կարող եք տեսնել քարանձավներ, որտեղ ժամանակին ճգնավորներ են ապրել:",
       "address": "ՀՀ, Տավուշի մարզ, ք. Ենոքավանի մերձակայքում",
       "phoneNumber": ". . .",
       "email": ". . .",
       "site": ["#", "#"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12779.312017178338!2d45.05163214992659!3d40.90442788917731!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40410376c0475bbd%3A0x953cf14ae9e1b10f!2sLastiver%20Campground!5e0!3m2!1sen!2s!4v1593415225075!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "5",
@@ -1954,13 +1920,12 @@
       "header": "Արարատ",
       "altText": "Արարատ",
       "caption": "կոնյակի-գինու գործարան",
-      "description": "Երեւանի Կոնյակի գործարանը 1887 թվականին կառուցել է վաճառական Ներսես Թահիրյանը` Հին Էրիվան ամրոցի վայրում: 1899 թվականին գործարանը գնում է ռուս արդյունաբերող Նիկոլայ Շուստովը: 1900 թվականին Փարիզյան ցուցահանդեսում Շուստովի արտադրանքը ստանում է Գրան-պրի մրցանակ: Բարձր որակական հատկանիշների շնորհիվ Շուստովին թույլատրում են շշերի վրա գրել կոնյակ, այլ ոչ թե բրենդի: Հայկական կոնյակը մեծ ճանաչում ունեցավ 1913 թվականին, երբ Շուստով եւ որդիներ ընկերությունը սկսեց մատակարարել իր արտադրանքը ռուսական կայսերական արքունիքին: Երեւանի կոնյակի գործարանի ԱՐԱՐԱՏ կոնյակները ինքնին լեգենդ են` իրենց մեջ ամփոփելով Հայաստանի ոգին, պատմամշակութային ժառանգությունը եւ հայ վարպետների հմտությունը:Հրավիրում ենք Ձեզ ծանոթանալ հայկական լեգենդար ԱՐԱՐԱՏ կոնյակի պատմությանը, ականատես լինել կոնյակի արտադրման փուլերին եւ համտեսել տարբեր տեսակի հայկական ԱՐԱՐԱՏ կոնյակների անկրկնելի համն ու բույրը` հենց աղբյուրից: Երևանի կոնյակի գործարանում էքսկուսիայի ժամանակ կլինեք գործարանի թանգարանում եւ կծանոթանաք կոնյակի լեգենդին, կտեսնեք հնագույն հայկական տակառները, կիմանաք ինչպիսին են եղել հայկական կոնյակները 100-120 տարի առաջ, ովքեր են խմել հայկական կոնյակ, ինչ մեդալներ են զարդարում ԱՐԱՐԱՏ լեգենդը: Ինչպես նաև կշրջեք հնեցման արտադրամասում եւ կտեսնեք, թե ինչպես են պահպանվում կոնյակները, կիմանաք թե ովքեր ունեն իրենց անվանական տակառները եւ կվայելեք արտադրամասի անկրկնելի բույրը: էքսկուսիան իօր մեջ ներառում է համտեսի մաս և դուք համտեսի սրահում կանցկացնեք անմոռանալի ժամանակ` վայելելով նրբահամ կոնյակներ:",
+      "description": "Երեւանի Կոնյակի գործարանը 1887 թվականին կառուցել է վաճառական Ներսես Թահիրյանը` Հին Էրիվան ամրոցի վայրում: 1899 թվականին գործարանը գնում է ռուս արդյունաբերող Նիկոլայ Շուստովը: 1900 թվականին Փարիզյան ցուցահանդեսում Շուստովի արտադրանքը ստանում է Գրան-պրի մրցանակ: Բարձր որակական հատկանիշների շնորհիվ Շուստովին թույլատրում են շշերի վրա գրել կոնյակ, այլ ոչ թե բրենդի: Հայկական կոնյակը մեծ ճանաչում ունեցավ 1913 թվականին, երբ Շուստով եւ որդիներ ընկերությունը սկսեց մատակարարել իր արտադրանքը ռուսական կայսերական արքունիքին:",
       "address": "ՀՀ, ք. Երևան, Արգիշտի փող. 9",
       "phoneNumber": "+37410540000",
       "email": ". . .",
       "site": ["https://araratbrandy.com/", "https://www.facebook.com/AraratBrandyArmenia"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.5511586285834!2d44.49722449626736!3d40.17454607036402!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abc548fc4e409%3A0x1c7a78ab4dded93c!2sYerevan%20Brandy%20Company!5e0!3m2!1sen!2s!4v1593415308238!5m2!1sen!2s",
-      "popular": false,
       "workTime": ["փակ է", "9:00AM-6:00PM", "9:00AM-6:00PM", "9:00AM-6:00PM", "9:00AM-6:00PM", "9:00AM-6:00PM", "փակ է"]
     },
     {
@@ -1970,14 +1935,13 @@
       "header": "Նորատուս",
       "altText": "Նորատուս",
       "caption": "քանդակներ",
-      "description": "Նորատուսը հայտնի է իր գերեզմանոցով, որի հին մասն ընդգրկել է մոտ 800 խաչքարեր` կերտված 9-17-րդ դարերում։ Խաչքարերը բազմազան են` պայմանավորված այդ արվեստի զարգացման այս կամ այն ժամանակաշրջանով. առանձնացվում են խաչքարային արվեստի զարգացման հիմնական երեք ժամանակաշրջաններ` 9-10-րդ, 11-12-րդ և 13-16-րդ դարեր։ Նորատուսի գերեզմանատունն իր մեծությամբ երկրորդն է Ջուղայի (Նախիջևան) պատմական գերեզմանատնից հետո, որտեղ գտնվող մոտ 2500 խաչքարերը 1998-2005 թթ. ընթացքում ծրագրված ավեր-վում էին Ադրբեջանի կողմից։ Ջուղայի խաչքարեր կան Էջմիածնի Մայր տաճարի բակում։ Ջուղայի գերեզմանատան կործանումից հետո Նորատուսը խաչքարերի ամենամեծ համալիրն է աշխարհում։ Խաչքարը համաշխարհային մշակութային ժառանգության շտեմարանում հայ ժողովրդի թողած ամենաինքնատիպ դրսևորումներից է։ Հիմնված լինելով հուշակոթողային արվեստի ավանդույթների վրա` խաչքարային արվեստը սկսել է զարգանալ վաղ քրիստոնեական շրջանում և իր բարձրակետին է հասել միջնադարում։ Նորատուսում խաչքարերի կերտման տարբեր ժամանակաշրջանների հրաշալի նմուշներ կան։",
+      "description": "Նորատուսը հայտնի է իր գերեզմանոցով, որի հին մասն ընդգրկել է մոտ 800 խաչքարեր` կերտված 9-17-րդ դարերում։ Խաչքարերը բազմազան են` պայմանավորված այդ արվեստի զարգացման այս կամ այն ժամանակաշրջանով. առանձնացվում են խաչքարային արվեստի զարգացման հիմնական երեք ժամանակաշրջաններ` 9-10-րդ, 11-12-րդ և 13-16-րդ դարեր։ Նորատուսի գերեզմանատունն իր մեծությամբ երկրորդն է Ջուղայի (Նախիջևան) պատմական գերեզմանատնից հետո, որտեղ գտնվող մոտ 2500 խաչքարերը 1998-2005 թթ. ընթացքում ծրագրված ավեր-վում էին Ադրբեջանի կողմից։",
       "address": "ՀՀ, Գեղարքունիքի մարզ, գ. Նորատուս",
       "phoneNumber": ". . .",
       "email": ". . .",
       "site": ["#", "#"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d9862.037141449753!2d45.17650701701503!3d40.369306213346306!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40400d4a03181931%3A0xc86f8c0cea14b2a6!2sNoratus%20Cemetery!5e0!3m2!1sen!2s!4v1593415383678!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "7",
@@ -1986,14 +1950,13 @@
       "header": "Արենի",
       "altText": "Արենի",
       "caption": "քարանձավ",
-      "description": "Գտնվում է Եղեգնաձորից 12 կմ հեռավորության վրա։ Ընկած է Արփա գետի հովտում։ Արենիի քարանձավը գտնվում է Արենի գետի ձախ ափին։ Քարանձավը բաղկացած է 3 սրահներից։ Քարանձավն ունի մոտ 500 մ² մակերես, որի մեծ մասը դեռևս ուսումնասիրված չէ, քանի որ տարածքը սահմանափակ է, և նոր պեղումները կարող են փակել անցումներն ու վնասել արդեն հայտնաբերված հնագիտական հուշարձանները։ Քարանձավում առնվազն չորս մետր մշակութային շերտ կա։ Ներքին՝ նեոլիթական շերտերը պատկանում են պղնձեքարի դարին։ Հանդիպում են նաև հոմոէրեքտուսի (լատ.՝ Homo erectus) հետքեր, ովքեր բնակվել են ավելի քան երկու միլիոն տարի առաջ մեր տարածաշրջանում։ Քարանձավը դասվում է կլաստոկարստային քարանձավների դասին, քանի որ ձևավորվել է կրաքարային կոնգլոմերատների մեջ։ Քարանձավն իրենից ներկայացնում է մի քանի խոռոչների համալիր և ունի 400-ից 600 մ² մակերես տարածք։ V դարի պատմիչ Եղիշեն հիշատակում է Արփանեալ անունով բերդ կամ ավան։ Թռչունների քարանձավում սկսած 2007 թվականից իրականացվում են հնագիտական պեղումներ, որոնց արդյունքում հայտնաբերվել են մ.թ.ա. 4200-3500 թվականներին վերագրված բազմաթիվ գտածոներ՝ բուսական մնացորդներ, ամանեղեն, խաղողի, ծիրանի կորիզներ, եղեգից պատրաստված գործվածքներ, կանացի գանգեր, մումիֆիկացված այծի մարմնի մաս և այլն։Արենի-1 քարանձավի ուսումնասիրություններից գտնվել են մետաղյա դանակներ, ավելի քան 30 տեսակի մրգի սերմեր, հացահատկի տասնյակ տեսակների մնացորդներ, պարան, հագուստ, ծղոտ, խոտ, եղեգ և չորացած խաղող ու սալոր։ Պինդ, կարբոնատե կեղևը՝ ծածկելով Պղնձի դարի հողաշերտերը, ծայրահեղ չորության և քարանձավի ներսում կայուն ջերմաստիճանի հետ մեկտեղ նպաստել են արտեֆակտների և, հատկապես, աղջկա ուղեղի պահպանմանը։ Քարանձավի մուտքի մոտ, ժայռի ծածկի տակ պեղվել են նաև 12-14-րդ դարերի միջնադարյան վառարաններ։Արենիի քարանձավ, քարանձավների համալիր Հայաստանի հարավ-արևելյան մասում՝ Վայոց ձորի մարզի Արենի գյուղում Արփա գետի ափին։ Հայտնի է նաև «Թռչունների քարանձավ» անվանումով։ 2010 թ-ին այստեղ հայտնաբերվեց աշխարհի ամենահին կոշիկը։ 2011 թ-ի հունվարին այստեղ հայտնաբերվեց նաև աշխարհի առաջին գինեգործարանը։ 2011 թ-ին այստեղ հայտնաբերվեց մ.թ.ա. 3900 թ-ին վերագրվող կանացի կիսաշրջազգեստ։",
+      "description": "Գտնվում է Եղեգնաձորից 12 կմ հեռավորության վրա։ Ընկած է Արփա գետի հովտում։ Արենիի քարանձավը գտնվում է Արենի գետի ձախ ափին։ Քարանձավը բաղկացած է 3 սրահներից։ Քարանձավն ունի մոտ 500 մ² մակերես, որի մեծ մասը դեռևս ուսումնասիրված չէ, քանի որ տարածքը սահմանափակ է, և նոր պեղումները կարող են փակել անցումներն ու վնասել արդեն հայտնաբերված հնագիտական հուշարձանները։ Քարանձավում առնվազն չորս մետր մշակութային շերտ կա։ Ներքին՝ նեոլիթական շերտերը պատկանում են պղնձեքարի դարին։",
       "address": "ՀՀ, Վայոց Ձոր",
       "phoneNumber": ". . .",
       "email": ". . .",
-      "site": ["", ""],
+      "site": ["#", "#"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d17109.805380837686!2d45.17719191152127!3d39.72597247245521!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401572b0f7afa949%3A0x39d627af3a6a262e!2sHin%20Areni%20Winery!5e0!3m2!1sen!2s!4v1593415442664!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     }
   ]
 }
