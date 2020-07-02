@@ -319,7 +319,6 @@
       "phoneNumber": "+37455520691",
       "site": ["https://historymuseum.am/", "https://www.facebook.com/HistoryMuseumofArmenia/?ref=hl"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d807.4093987302198!2d44.51405665969525!3d40.1785338648764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd7edfb185b1b5749!2z0JrQsNGA0YLQuNC90L3QsNGPINCz0LDQu9C10YDQtdGPINCQ0YDQvNC10L3QuNC4!5e0!3m2!1sru!2s!4v1593418283557!5m2!1sru!2s",
-      "popular": false,
       "email": "museum@historymuseum.am",
       "workTime": ["11AM–5PM", "փակ է", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM"]
     },
@@ -335,7 +334,6 @@
       "phoneNumber": "+37410562578",
       "site": ["http://www.matenadaran.am", "https://www.facebook.com/MashtotsMatenadaran"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12191.079593258437!2d44.5208566!3d40.191934!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7f2158e0bb6e6dd7!2sMatenadaran!5e0!3m2!1sen!2s!4v1593508113889!5m2!1sen!2s",
-      "popular": false,
       "email": "contact@matenadaran.am",
       "workTime": ["փակ է", "փակ է", "10AM–5PM", "10AM–5PM", "10AM–5PM", "10AM–5PM", "10AM–5PM"]
     },
@@ -351,7 +349,6 @@
       "phoneNumber": "+37410560021",
       "site": ["http://www.toumanian.am/", "https://www.facebook.com/Tumanyanmuseumofficial"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.957395810256!2d44.50776101506881!3d40.187761577457586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1c48a25981%3A0xf23a976143428243!2sHovhannes%20Tumanyan%20Museum!5e0!3m2!1sen!2s!4v1593508642193!5m2!1sen!2s",
-      "popular": false,
       "email": "museum@toumanian.am",
       "workTime": ["11AM–3:30PM", "փակ է", "11AM–3:30PM", "11AM–4:30PM", "11AM–4:30PM", "11AM–4:30PM", "11AM–4:30PM"]
     },
@@ -367,7 +364,6 @@
       "phoneNumber": "+37411570570",
       "site": ["http://komitasmuseum.am/", "https://www.facebook.com/KomitasStateMuseumInstitute"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3049.0931823327014!2d44.50022671506804!3d40.16247897898783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abc422bc26513%3A0xbacd01ec5c04ce5c!2sKomitas%20Museum-Institute!5e0!3m2!1sen!2s!4v1593508537078!5m2!1sen!2s",
-      "popular": false,
       "email": "contact@komitasmuseum.am",
       "workTime": ["11AM–4:30PM", "11AM–4:30PM", "11AM–4:30PM", "փակ է", "11AM–4:30PM", "11AM–4:30PM", "11AM–4:30PM"]
     },
@@ -383,9 +379,8 @@
       "phoneNumber": "+37410538473",
       "site": ["http://parajanovmuseum.am/hy/", "https://www.facebook.com/%D5%8D%D5%A5%D6%80%D5%A3%D5%A5%D5%B5-%D5%84%D5%A5%D6%80%D5%AF%D5%B8%D6%82%D6%80%D5%B8%D5%BE%D5%AB-%D5%BF%D5%B8%D6%82%D5%B6-%D5%A9%D5%A1%D5%B6%D5%A3%D5%A1%D6%80%D5%A1%D5%B6-141047226013076"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.360316519024!2d44.497978615068504!3d40.178794078000315!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfff60262b3%3A0x76f0d4d04530d3d7!2sSergei%20Paradjanov%20Museum!5e0!3m2!1sen!2s!4v1593508812832!5m2!1sen!2s",
-      "popular": false,
       "email": "parajanovmuseum@gmail.com",
-      "workTime": ["10:30AM–5PM", "10:30AM–5PM", "10:30AM–5PM", "10:30AM–5PM", "10:30AM–5PM", "10:30AM–5PM", "10:30AM–5PM"]
+      "workTime": ["10:30–17:00", "10:30-17:00", "10:30-17:00", "10:30-17:00", "10:30-17:00", "10:30-17:00", "10:30-17:00"]
     },
     {
       "key": "6",
@@ -399,7 +394,6 @@
       "phoneNumber": "+37410391412",
       "site": ["http://genocide-museum.am/eng/index.php", "https://www.facebook.com/armeniangenocidemuseum"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.0597225024408!2d44.48620146506877!3d40.185484327595454!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVodW11bjWgSDWgdWl1bLVodW91brVodW21bjWgtWp1bXVodW2INWp1aHVttWj1aHWgNWh1bYt1avVttW91b_Vq9W_1bjWgtW_!5e0!3m2!1sen!2s!4v1593509208342!5m2!1sen!2s",
-      "popular": false,
       "email": "info@genocide-museum.am",
       "workTime": ["փակ է", "11AM–5PM", "11AM–4PM", "11AM–5PM", "11AM–4PM", "11AM–4PM", "11AM–4PM"]
     },
@@ -415,7 +409,6 @@
       "phoneNumber": "+37410567472",
       "site": ["http://www.gallery.am/ru/contacts/", "https://www.facebook.com/NationalGalleryOfArmenia"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3642925598315!2d44.51183151506849!3d40.17870557800576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfa4acffbdb%3A0xd7edfb185b1b5749!2sNational%20Gallery%20of%20Armenia!5e0!3m2!1sen!2s!4v1593510645637!5m2!1sen!2s",
-      "popular": false,
       "email": "press@gallery.am",
       "workTime": ["11AM–5PM", "փակ է", "11AM–5PM", "11AM–5PM", "11AM–5PM", "11AM–5PM", "11AM–5PM"]
     },
@@ -431,7 +424,6 @@
       "phoneNumber": "+37410541932",
       "site": ["https://www.cmf.am/", "https://www.facebook.com/pages/%D4%B3%D5%A1%D6%86%D5%A7%D5%BD%D5%B3%D5%A5%D5%A1%D5%B6%20%D5%A1%D6%80%D5%BE%D5%A5%D5%BD%D5%BF%D5%AB%20%D5%AF%D5%A5%D5%B6%D5%BF%D6%80%D5%B8%D5%B6/1730514830337097/"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.838803609225!2d44.513221915068804!3d40.190400677297696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd21f68b3141%3A0x19160e107697a0e0!2sCafesjian%20Center%20for%20the%20Arts!5e0!3m2!1sen!2s!4v1593511625736!5m2!1sen!2s",
-      "popular": false,
       "email": "info@cmf.am",
       "workTime": ["փակ է", "8AM–8PM", "8AM–8PM", "8AM–8PM", "8AM–8PM", "8AM–8PM", "փակ է"]
     },
@@ -447,7 +439,6 @@
       "phoneNumber": "+37410535359",
       "site": ["https://mamy.am/", "https://www.facebook.com/yerevanmodernartmuseum"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.3058777236943!2d44.50365401506852!3d40.18000577792703!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfef5e73855%3A0x866c6f7119369c!2sModern%20Art%20Museum!5e0!3m2!1sen!2s!4v1593511745065!5m2!1sen!2s",
-      "popular": false,
       "email": ". . .",
       "workTime": ["11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM"]
     },
@@ -463,7 +454,6 @@
       "phoneNumber": "+37410580568",
       "site": ["https://www.sarian.am/index_eng.html", "https://www.facebook.com/Sarianmuseum"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.9982327023954!2d44.50712801506867!3d40.186852777512584!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1cfe2e03a5%3A0xee4299a5dc39a8f8!2sMartiros%20Saryan%20House-Museum!5e0!3m2!1sen!2s!4v1593511977876!5m2!1sen!2s",
-      "popular": false,
       "email": "info@sarian.am",
       "workTime": ["11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM", "11AM–6PM"]
     },
@@ -479,7 +469,6 @@
       "phoneNumber": "+37410432661",
       "site": ["www.erebuni.am", "https://www.facebook.com/Erebunimuseum"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3050.0508836169847!2d44.53302441534732!3d40.14115027939815!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abbecb2e62d5b%3A0x14b124c3852392eb!2z0JzRg9C30LXQuSDCq9Ct0YDQtdCx0YPQvdC4wrs!5e0!3m2!1sru!2s!4v1593419637029!5m2!1sru!2s",
-      "popular": false,
       "email": "erebunimuseum@gmail.com",
       "workTime": ["", "", "", "", "", "", ""]
     },
@@ -495,9 +484,8 @@
       "phoneNumber": "+37410531412",
       "site": ["www.gatmuseum.am", "https://www.facebook.com/profile.php?id=100028998044633"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1767547895174!2d44.507417815068685!3d40.182879677753185!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcfd3fd48be9%3A0xb370d9607b33b985!2sYeghishe%20Charents%20House%20and%20Museum!5e0!3m2!1sen!2s!4v1593512367376!5m2!1sen!2s",
-      "popular": false,
       "email": ". . .",
-      "workTime": ["11:00AM-3:00PM", "11:00AM-4:00PM", "11:00AM-4:00PM", "11:00AM-4:00PM", "11:00AM-4:00PM", "11:00AM-4:00PM", "11:00AM-4:00PM"]
+      "workTime": ["11:00-3:00", "11:00-4:00", "11:00-4:00", "11:00-4:00", "11:00-4:00", "11:00-4:00", "11:00-4:00"]
     },
     {
       "key": "13",
@@ -511,7 +499,6 @@
       "phoneNumber": "+37410589418",
       "site": ["akhachaturianmuseum.am", "https://www.facebook.com/pages/House-Museum%20of%20Aram%20Khachaturian/144395678910992/"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.8451667970226!2d44.51110591506883!3d40.19025907730634!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1f2041d3f3%3A0x384328392110134a!2sAram%20Khachaturyan%20House%20Museum!5e0!3m2!1sen!2s!4v1593512491332!5m2!1sen!2s",
-      "popular": false,
       "email": ". . .",
       "workTime": ["փակ է", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-4:30"]
     },
@@ -527,9 +514,8 @@
       "phoneNumber": "+37410527980",
       "site": ["www.isahakyanmuseum.am", "https://www.facebook.com/AvetiqIsahakyanArmenia"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.8088613252144!2d44.51072411506875!3d40.19106697725739!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1f324d0a9f%3A0x2a8395b9a8f02c0b!2sAvetik%20Isahakyan%20House-Museum!5e0!3m2!1sen!2s!4v1593512616772!5m2!1sen!2s",
-      "popular": false,
       "email": "info@isahakyanmuseum.am",
-      "workTime": ["11:00AM-4:00PM", "10:30AM-5:00PM", "10:30AM-5:00PM", "10:30AM-5:00PM", "10:30AM-5:00PM", "10:30AM-5:00PM", "10:30AM-5:00PM"]
+      "workTime": ["11:00-4:00", "10:30-5:00", "10:30-5:00", "10:30-5:00", "10:30-5:00", "10:30-5:00", "10:30-5:00"]
     },
     {
       "key": "15",
@@ -543,9 +529,8 @@
       "phoneNumber": "+37493377599",
       "site": ["#", "https://www.facebook.com/Sevakmuseum"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3064.4048202155614!2d45.03145071505765!3d39.820340499618155!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40156a99900e61f3%3A0x1bb94e2705045727!2sParuyr%20Sevak%20House-Museum!5e0!3m2!1sen!2s!4v1593512714156!5m2!1sen!2s",
-      "popular": false,
       "email": ". . .",
-      "workTime": ["10:00AM-5:00PM", "10:00AM-5:00PM", "10:00AM-5:00PM", "10:00AM-5:00PM", "10:00AM-5:00PM", "10:00AM-5:00PM", "10:00AM-5:00PM"]
+      "workTime": ["10:00-5:00", "10:00-5:00", "10:00-5:00", "10:00-5:00", "10:00-5:00", "10:00-5:00", "10:00-5:00"]
     },
     {
       "key": "16",
@@ -559,9 +544,8 @@
       "phoneNumber": "+37431255174",
       "site": ["http://frunzikmuseum.com/hy/mher-mkrtchyan-museum/", "https://www.facebook.com/pages/category/Community-Museum/%D5%84%D5%B0%D5%A5%D6%80-%D5%84%D5%AF%D6%80%D5%BF%D5%B9%D5%B5%D5%A1%D5%B6%D5%AB-%D5%BF%D5%B8%D6%82%D5%B6-%D5%A9%D5%A1%D5%B6%D5%A3%D5%A1%D6%80%D5%A1%D5%B6-702457406433117/"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.7830373672678!2d43.84053101508715!3d40.78878374085204!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4041fbf33145b763%3A0xbb8108fd6c1ec29!2sMher%20Mkrtchyan%20Museum!5e0!3m2!1sen!2s!4v1593512830668!5m2!1sen!2s",
-      "popular": false,
       "email": "frunzikmkrtchyan.museum@gmail.com",
-      "workTime": ["11:00AM-5:00PM", "11:00AM-5:00PM", "10100AM-5:00PM", "11:00AM-5:00PM", "11:00AM-5:00PM", "11:00AM-5:00PM", "11:00AM-5:00PM"]
+      "workTime": ["11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00", "11:00-5:00"]
     }
   ],
   "restaurants": [
@@ -1572,9 +1556,8 @@
       "phoneNumber": "+37410521931",
       "email": "nvinoevn@gmail.com",
       "site": ["http://www.invino.am", "https://www.facebook.com/InVinoEVN"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3047.99165419112!2d44.50660991534865!3d40.18699917939243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINWN1aHWgNW11aHVtiDWg9W41bIuIDY!5e0!3m2!1sen!2s!4v1593411381696!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["10:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "10:00PM-11:30PM"]
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.9897715168568!2d44.50673195063385!3d40.187041077399975!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1cf8c2c7db%3A0x7ff6e3cd90e4313a!2sIn%20Vino!5e0!3m2!1sen!2s!4v1593645886247!5m2!1sen!2s",
+      "workTime": ["10:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "10:00-11:30"]
     },
     {
       "key": "2",
@@ -1588,9 +1571,8 @@
       "phoneNumber": "+37410610850",
       "email": " . . .",
       "site": ["https://www.ginetun.am/ginetun.html", "https://www.facebook.com/Ginetun"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.3924391765286!2d44.558343415349576!3d40.22257587938816!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aa2f0493569ad%3A0x976d92c2a2db17f5!2sAcharyan%20St%2C%20Yerevan%2C%20Armenia!5e0!3m2!1sen!2s!4v1593411601018!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["10:00PM-12:00PM", "10:00PM-12:00PM", "10:00PM-12:00PM", "10:00PM-12:00PM", "10:00PM-12:00PM", "10:00PM-12:00PM", "10:00PM-12:00PM"]
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6091.658634168006!2d44.556829968149955!3d40.2350970744894!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406aa2f049623159%3A0xc903da4e373736bd!2sGinetun%20Restaurant!5e0!3m2!1sen!2s!4v1593646112697!5m2!1sen!2s",
+      "workTime": ["10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00"]
     },
     {
       "key": "3",
@@ -1605,8 +1587,7 @@
       "email": "winehouse@figaro.am",
       "site": ["#", "https://www.facebook.com/GinovkatsWineHouse"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.2094461582155!2d44.5143592153484!3d40.18215207939308!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINSx1aLVuNW-1bXVodW2INaD1bjVsi4gNy8z!5e0!3m2!1sen!2s!4v1593411683316!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ". . ."
+      "workTime": []
     },
     {
       "key": "4",
@@ -1620,8 +1601,7 @@
       "phoneNumber": "+37444151413",
       "email": "winetimearmenia@gmail.com",
       "site": ["#", "https://www.facebook.com/WineTimeArmenia/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3048.456584025798!2d44.503383215348336!3d40.176651279393774!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINS21aHWhNW11aHVtiDWg9W41bIuIDg!5e0!3m2!1sen!2s!4v1593411792325!5m2!1sen!2s",
-      "popular": false,
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6096.899412088134!2d44.50159733260233!3d40.17680437812076!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abcf8b756c1db%3A0xbed25d08c7aa0c62!2sWine%20Time!5e0!3m2!1sen!2s!4v1593646461252!5m2!1sen!2s",
       "workTime": ["1:00PM-12:00PM", "1:00PM-12:00PM", "1:00PM-12:00PM", "1:00PM-12:00PM", "1:00PM-12:00PM", "1:00PM-12:00PM", "1:00PM-12:00PM"]
     },
     {
@@ -1636,9 +1616,8 @@
       "phoneNumber": "+37493752480",
       "email": ". . .",
       "site": ["#", "https://www.facebook.com/winehouseAreni/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d12274.553260686263!2d45.17762378603047!3d39.725310321221926!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1Y7VodW11bjWgSDVgdW41oDVqyDVtNWh1oDVpiwg1aMuINSx1oDVpdW21assINSx1oDVpdW21asgMTYg1oPVuNWyLiAxOA!5e0!3m2!1sen!2s!4v1593411844103!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["10:00AM-10:00PM", "10:00AM-10:00PM", "10:00AM-10:00PM", "10:00AM-10:00PM", "10:00AM-10:00PM", "10:00AM-10:00PM", "10:00AM-10:00PM"]
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6137.193247202693!2d45.179375632588695!3d39.72624710526658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x401572b3d99a4ee9%3A0x348220850d164f62!2sWine%20House%20Areni%20Cave!5e0!3m2!1sen!2s!4v1593646640085!5m2!1sen!2s",
+      "workTime": ["10:00-10:00", "10:00-10:00", "10:00-10:00", "10:00-10:00", "10:00-10:00", "10:00-10:00", "10:00-10:00"]
     },
     {
       "key": "6",
@@ -1652,9 +1631,8 @@
       "phoneNumber": "+37410521932",
       "email": "tapastanevn@gmail.com",
       "site": ["#", "facebook.com/Tapastan/"],
-      "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3047.99165419112!2d44.50660991534865!3d40.18699917939243!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINWELiDVjdaA1bXVodW2INaD1bjVsi4gNg!5e0!3m2!1sen!2s!4v1593411926684!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["12:00AM-11;30PM", "12:00AM-11;30PM", "12:00AM-11;30PM", "12:00AM-11;30PM", "12:00AM-11;30PM", "12:00AM-11;30PM", "12:00AM-11;30PM"]
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6095.990983387625!2d44.50436563260254!3d40.186913777508856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x406abd1cfc0ca6bf%3A0x9c8bb351d31c7535!2sTapastan!5e0!3m2!1sen!2s!4v1593646791008!5m2!1sen!2s",
+      "workTime": ["12:00-11;30", "12:00-11;30", "12:00-11;30", "12:00-11;30", "12:00-11;30", "12:00-11;30", "12:00-11;30"]
     },
     {
       "key": "7",
@@ -1669,8 +1647,7 @@
       "email": ". . .",
       "site": ["#", "https://www.facebook.com/nanewinehouse/"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d24259.070513192324!2d44.70105150620726!3d40.533108778495475!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1L_VuNW_1aHVtdaE1asg1bTVodaA1aYsINaELiDUvtWh1bLVr9Wh1bHVuNaALCDUs9aA1avVo9W41oAg1YTVodWj1avVvdW_1oDVuNW91asg1oPVuNWyLiA4!5e0!3m2!1sen!2s!4v1593411979420!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM", "11:00PM-11:30PM"]
+      "workTime": ["11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30", "11:00-11:30"]
     },
     {
       "key": "8",
@@ -1685,15 +1662,14 @@
       "email": "contact@saryannotes.com",
       "site": ["http://saryannotes.am/", "https://www.facebook.com/saryannotes1"],
       "coordinates": "https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d3047.9896186492847!2d44.50750631534857!3d40.187044479392455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1z1YDVgCwg1oQuINS11oDWh9Wh1bYsINWELiDVjdWh1oDVtdWh1bYg1oPVuNWyLiAx!5e0!3m2!1sen!2s!4v1593412024575!5m2!1sen!2s",
-      "popular": false,
-      "workTime": ["10:00AM-12:00PM", "10:00AM-12:00PM", "10:00AM-12:00PM", "10:00AM-12:00PM", "10:00AM-12:00PM", "10:00AM-12:00PM", "10:00AM-12:00PM"]
+      "workTime": ["10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00", "10:00-12:00"]
   }
   ],
   "extreme":[
     {
       "key": "1",
       "name": "Off-Road-tourism",
-      "src": "https://lh3.googleusercontent.com/proxy/Hxh0WjCAWVv5TNYLlkxoLsJBPpPWxsLo5YC5RP46BKJZHmAWwPbjF7Kp3un9EacqPgTpXYTSmVJ9IsQnoKQMLK4OeFXIK1_KeLIFd1ZLXkKwQvsa7IXlVYtl7WP8GPk",
+      "src": "https://hetq.am/static/content/economy/tourism/extremal/Gor.jpg",
       "header": "Off-Road տուրիզմ",
       "altText": "Off-Road տուրիզմ",
       "caption": "արտաճանապարհային տուրեր",
@@ -1701,10 +1677,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["https://araratour.com/package/jeep-tour-to-armenia", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "2",
@@ -1717,10 +1692,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["http://cyclingarmenia.com/", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "3",
@@ -1733,10 +1707,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "4",
@@ -1749,10 +1722,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "5",
@@ -1765,10 +1737,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "6",
@@ -1781,10 +1752,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "7",
@@ -1797,15 +1767,14 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "8",
       "name": "Armenia-paraplane",
-      "src": "https://lh3.googleusercontent.com/proxy/MPZc9YJaKEQWfo-OnH5vbJM_cWIsSrvrFMB5irxohHZwLlvW6veBcByGET2HcCDS6vZqRvsU6LlaXuA1lAM-fu96erp_a29As3NLwTLG7uatffdQoI7Pd6Z7Jzi1ehg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Parapente_-_166.jpg/1280px-Parapente_-_166.jpg",
       "header": "Պարապլան",
       "altText": "Պարապլան",
       "caption": "պարապլաներիզմը Հայաստանում",
@@ -1813,10 +1782,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "9",
@@ -1829,10 +1797,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . ",
-      "popular": false
+      "coordinates": " . . . "
     },
     {
       "key": "10",
@@ -1845,10 +1812,9 @@
       "address": "․ ․ ․",
       "phoneNumber": "․ ․ ․",
       "email": " . . . ",
-      "workTime": " . . . ",
+      "workTime": [],
       "site": ["#", "#"],
-      "coordinates":" . . . ",
-      "popular": false
+      "coordinates":" . . . "
     }
   ],
   "popular": [
