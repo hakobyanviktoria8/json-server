@@ -1666,7 +1666,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["https://araratour.com/package/jeep-tour-to-armenia", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "2",
@@ -1681,7 +1681,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["http://cyclingarmenia.com/", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "3",
@@ -1696,7 +1696,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "4",
@@ -1711,7 +1711,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "5",
@@ -1726,7 +1726,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "6",
@@ -1741,7 +1741,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "7",
@@ -1756,7 +1756,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "8",
@@ -1771,7 +1771,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "9",
@@ -1786,7 +1786,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates": " . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     },
     {
       "key": "10",
@@ -1801,7 +1801,7 @@
       "email": " . . . ",
       "workTime": [],
       "site": ["#", "#"],
-      "coordinates":" . . . "
+      "coordinates": "https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d778556.0614529789!2d44.69120464218752!3d40.337141167431604!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2s!4v1594855224639!5m2!1sen!2s"
     }
   ],
   "popular": [
